@@ -1,0 +1,3464 @@
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 10/31/2015 05:09:56.
+Game is Tactical Engagement type Local
+Mission name: TR433_10_GPbombs
+
+Mission Type: TRAINING 
+Flight Unique Id: Stud1
+1 Ship Flight
+Ac type: F-16CM-50 
+Contry: U.S. 
+
+FLIGHT EVENTS
+Event Cold joined as Stud11 at 08:58:35 
+Event U.S. Radar destroyed by Cold at 09:05:53 
+Event Cold exited from Stud11 at 09:09:14 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: 2Lt. Alex Brueckner 
+Callsign: Cold 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 4 
+Missed 2 
+Hit 2 
+Event 20mm M61 fired at 09:02:21@72miss 
+Event 20mm M61 fired at 09:05:15@72hit RNG - Target South - damaged 
+Event @72hit RNG - Tire Pile - damaged 
+Event @72hit RNG - Tire Pile - damaged 
+
+LOADOUT 1: AIM-120C 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-9M 
+Starting Load 2 
+Fired 2 
+Missed 1 
+Hit 1 
+Event AIM-9M released at 09:06:33@72miss 
+Event AIM-9M released at 09:06:39@72hit Manufacturer - damaged 
+
+LOADOUT 3: BDU-33D/B 
+Starting Load 12 
+Fired 8 
+Missed 6 
+Hit 2 
+Event BDU-33D/B released at 09:03:13@72hit Target 7 - damaged 
+Event BDU-33D/B released at 09:03:13@72hit Target 7 - damaged 
+Event BDU-33D/B released at 09:04:30@72miss 
+Event BDU-33D/B released at 09:04:30@72miss 
+Event BDU-33D/B released at 09:04:30@72miss 
+Event BDU-33D/B released at 09:04:30@72miss 
+Event BDU-33D/B released at 09:04:30@72miss 
+Event BDU-33D/B released at 09:04:30@72miss 
+
+LOADOUT 4: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 5: AN/ALQ-184 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 10/31/2015 05:13:28.
+Game is DogFight type Local
+Mission name: TR433_12_Harm
+
+Mission Type: SWEEP 
+Flight Unique Id: Crimson1
+0 Ship Flight
+Ac type: F-16CM-52 
+Contry: U.S. 
+
+FLIGHT EVENTS
+Event Cold entered arena 
+Event MiG-29A Tiger11 launched AA-10A at Cold 13:01:36 
+Event Tiger11 downed by Cold 
+Event Tiger11 downed by Cold 
+Event Cold left arena 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: 2Lt. Alex Brueckner 
+Callsign: Cold 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 2 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 1 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120B 
+Starting Load 2 
+Fired 1 
+Missed 0 
+Hit 1 
+Event Cold released AIM-120B: hit MiG-29A - destroyed 
+
+LOADOUT 2: AIM-9X 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: AIM-9P 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 10/31/2015 05:16:16.
+Game is DogFight type Local
+Mission name: TR433_12_Harm
+
+Mission Type: SWEEP 
+Flight Unique Id: Crimson1
+0 Ship Flight
+Ac type: F-16AM-NL 
+Contry: U.S. 
+
+FLIGHT EVENTS
+Event Cold entered arena 
+Event MiG-29A Tiger11 launched AA-12 at Cold 13:01:02 
+Event Cold left arena 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: 2Lt. Alex Brueckner 
+Callsign: Cold 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 1 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120B 
+Starting Load 1 
+Fired 1 
+Missed 1 
+Hit 0 
+Event Cold released AIM-120B: miss 
+
+LOADOUT 2: AIM-9P 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: AN/ALQ-131(V) 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 10/31/2015 05:20:54.
+Game is DogFight type Local
+Mission name: TR433_12_Harm
+
+Mission Type: SWEEP 
+Flight Unique Id: Crimson1
+0 Ship Flight
+Ac type: F-16CM-50 
+Contry: U.S. 
+
+FLIGHT EVENTS
+Event Cold entered arena 
+Event Tiger11 downed by Cold 
+Event Cold left arena 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: 2Lt. Alex Brueckner 
+Callsign: Cold 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 1 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120B 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-9X 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: AN/ALQ-131(V) -1 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 10/31/2015 16:38:26.
+Game is Campaign type Local
+
+Mission Type: AI STRIKE 
+Flight Unique Id: Weasel1
+2 Ship Flight
+Ac type: F-16CM-40 
+Contry: U.S. 
+
+FLIGHT EVENTS
+Event Cold joined as Weasel11 at 05:41:05 
+Event Cold exited from Weasel11 at 05:41:41 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: 2Lt. Alex Brueckner 
+Callsign: Cold 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120B 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-9X 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: AGM-65G 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: 600 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 5: AN/ALQ-184 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 10/31/2015 16:54:20.
+Game is Tactical Engagement type Local
+Mission name: TR433_13_AGM65
+
+Mission Type: PRE-PLAN CAS 
+Flight Unique Id: Rocket2
+1 Ship Flight
+Ac type: KF-16C-52 
+Contry: U.S. 
+
+FLIGHT EVENTS
+Event Cold joined as Rocket21 at 08:45:04 
+Event SA14 launched at Cold 08:56:31 
+Event DPRK Manufacturer destroyed by Cold at 08:56:44 
+Event 23mm AAA (RG) launched at Cold 08:56:45 
+Event 23mm AAA (RG) launched at Cold 08:56:45 
+Event 23mm AAA (RG) launched at Cold 08:56:46 
+Event 23mm AAA (RG) launched at Cold 08:56:46 
+Event 23mm AAA (RG) launched at Cold 08:56:46 
+Event 23mm AAA (RG) launched at Cold 08:56:46 
+Event 23mm AAA (RG) launched at Cold 08:56:47 
+Event 23mm AAA (RG) launched at Cold 08:56:47 
+Event 23mm AAA (RG) launched at Cold 08:56:47 
+Event 23mm AAA (RG) launched at Cold 08:56:47 
+Event 23mm AAA (RG) launched at Cold 08:56:47 
+Event 23mm AAA (RG) launched at Cold 08:56:47 
+Event 23mm AAA (RG) launched at Cold 08:56:48 
+Event 23mm AAA (RG) launched at Cold 08:56:48 
+Event 23mm AAA (RG) launched at Cold 08:56:48 
+Event 23mm AAA (RG) launched at Cold 08:56:48 
+Event 23mm AAA (RG) launched at Cold 08:56:48 
+Event 23mm AAA (RG) launched at Cold 08:56:48 
+Event 23mm AAA (RG) launched at Cold 08:56:48 
+Event 23mm AAA (RG) launched at Cold 08:56:48 
+Event 23mm AAA (RG) launched at Cold 08:56:49 
+Event 23mm AAA (RG) launched at Cold 08:56:49 
+Event 23mm AAA (RG) launched at Cold 08:56:49 
+Event 23mm AAA (RG) launched at Cold 08:56:49 
+Event 23mm AAA (RG) launched at Cold 08:56:49 
+Event 23mm AAA (RG) launched at Cold 08:56:49 
+Event 23mm AAA (RG) launched at Cold 08:56:49 
+Event 23mm AAA (RG) launched at Cold 08:56:49 
+Event 23mm AAA (RG) launched at Cold 08:56:50 
+Event 23mm AAA (RG) launched at Cold 08:56:50 
+Event 23mm AAA (RG) launched at Cold 08:56:50 
+Event 23mm AAA (RG) launched at Cold 08:56:50 
+Event 23mm AAA (RG) launched at Cold 08:56:50 
+Event 23mm AAA (RG) launched at Cold 08:56:50 
+Event 23mm AAA (RG) launched at Cold 08:56:50 
+Event 23mm AAA (RG) launched at Cold 08:56:50 
+Event 23mm AAA (RG) launched at Cold 08:56:51 
+Event 23mm AAA (RG) launched at Cold 08:56:51 
+Event 23mm AAA (RG) launched at Cold 08:56:51 
+Event 23mm AAA (RG) launched at Cold 08:56:51 
+Event 23mm AAA (RG) launched at Cold 08:56:51 
+Event 23mm AAA (RG) launched at Cold 08:56:51 
+Event 23mm AAA (RG) launched at Cold 08:56:51 
+Event 23mm AAA (RG) launched at Cold 08:56:52 
+Event 23mm AAA (RG) launched at Cold 08:56:52 
+Event 23mm AAA (RG) launched at Cold 08:56:52 
+Event 23mm AAA (RG) launched at Cold 08:56:52 
+Event 23mm AAA (RG) launched at Cold 08:56:52 
+Event 23mm AAA (RG) launched at Cold 08:56:52 
+Event 23mm AAA (RG) launched at Cold 08:56:52 
+Event 23mm AAA (RG) launched at Cold 08:56:53 
+Event 23mm AAA (RG) launched at Cold 08:56:53 
+Event 23mm AAA (RG) launched at Cold 08:56:53 
+Event 23mm AAA (RG) launched at Cold 08:56:53 
+Event 23mm AAA (RG) launched at Cold 08:56:53 
+Event 23mm AAA (RG) launched at Cold 08:56:53 
+Event 23mm AAA (RG) launched at Cold 08:56:53 
+Event 23mm AAA (RG) launched at Cold 08:56:53 
+Event 23mm AAA (RG) launched at Cold 08:56:54 
+Event 23mm AAA (RG) launched at Cold 08:56:54 
+Event 23mm AAA (RG) launched at Cold 08:56:54 
+Event 23mm AAA (RG) launched at Cold 08:56:54 
+Event 23mm AAA (RG) launched at Cold 08:56:54 
+Event 23mm AAA (RG) launched at Cold 08:56:54 
+Event 23mm AAA (RG) launched at Cold 08:56:54 
+Event 23mm AAA (RG) launched at Cold 08:56:54 
+Event 23mm AAA (RG) launched at Cold 08:56:55 
+Event 23mm AAA (RG) launched at Cold 08:56:55 
+Event 23mm AAA (RG) launched at Cold 08:56:55 
+Event 23mm AAA (RG) launched at Cold 08:56:55 
+Event 23mm AAA (RG) launched at Cold 08:56:55 
+Event 23mm AAA (RG) launched at Cold 08:56:55 
+Event 23mm AAA (RG) launched at Cold 08:56:55 
+Event 23mm AAA (RG) launched at Cold 08:56:56 
+Event 23mm AAA (RG) launched at Cold 08:56:56 
+Event 23mm AAA (RG) launched at Cold 08:56:56 
+Event 23mm AAA (RG) launched at Cold 08:56:56 
+Event 23mm AAA (RG) launched at Cold 08:56:56 
+Event 23mm AAA (RG) launched at Cold 08:56:56 
+Event 23mm AAA (RG) launched at Cold 08:56:56 
+Event 23mm AAA (RG) launched at Cold 08:56:56 
+Event 23mm AAA (RG) launched at Cold 08:56:57 
+Event 23mm AAA (RG) launched at Cold 08:56:57 
+Event 23mm AAA (RG) launched at Cold 08:56:57 
+Event 23mm AAA (RG) launched at Cold 08:56:57 
+Event 23mm AAA (RG) launched at Cold 08:56:57 
+Event 23mm AAA (RG) launched at Cold 08:56:57 
+Event 23mm AAA (RG) launched at Cold 08:56:57 
+Event 23mm AAA (RG) launched at Cold 08:56:58 
+Event 23mm AAA (RG) launched at Cold 08:56:58 
+Event Cold exited from Rocket21 at 08:57:18 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: 2Lt. Alex Brueckner 
+Callsign: Cold 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 1 
+AN Kills 0 
+Shoot At 91 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120B 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-9M 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: AGM-65D 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: AGM-65G 
+Starting Load 2 
+Fired 1 
+Missed 0 
+Hit 1 
+Event AGM-65G released at 08:56:41@72hit Manufacturer - destroyed 
+
+LOADOUT 5: 300 Gal Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 10/31/2015 16:58:08.
+Game is Tactical Engagement type Local
+Mission name: TR433_11_LGB
+
+Mission Type: STRIKE 
+Flight Unique Id: Vandal3
+2 Ship Flight
+Ac type: KF-16C-52 
+Contry: U.S. 
+
+FLIGHT EVENTS
+Event Cold joined as Vandal31 at 19:08:01 
+Event Cold exited from Vandal31 at 19:11:17 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: 2Lt. Alex Brueckner 
+Callsign: Cold 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-9M 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-120C 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: GBU-12B/B 
+Starting Load 4 
+Fired 2 
+Missed 2 
+Hit 0 
+Event GBU-12B/B released at 19:10:19@72miss 
+Event GBU-12B/B released at 19:10:19@72miss 
+
+LOADOUT 4: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 10/31/2015 17:18:20.
+Game is Tactical Engagement type Local
+Mission name: TR433_11_LGB
+
+Mission Type: STRIKE 
+Flight Unique Id: Vandal3
+2 Ship Flight
+Ac type: KF-16C-52 
+Contry: U.S. 
+
+FLIGHT EVENTS
+Event Cold joined as Vandal31 at 19:08:01 
+Event DPRK Floodlights-type2 destroyed by Cold at 19:11:14 
+Event DPRK Manufacturer destroyed by Cold at 19:11:14 
+Event Cold exited from Vandal31 at 19:12:56 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: 2Lt. Alex Brueckner 
+Callsign: Cold 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 2 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-9M 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-120C 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: GBU-12B/B 
+Starting Load 4 
+Fired 2 
+Missed 1 
+Hit 1 
+Event GBU-12B/B released at 19:10:27@72hit Manufacturer - destroyed 
+Event @72hit Floodlights-type2 - destroyed 
+
+LOADOUT 4: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 10/31/2015 17:28:58.
+Game is Tactical Engagement type Local
+Mission name: TR433_15_IAM
+
+Mission Type: AI 
+Flight Unique Id: Sparky3
+2 Ship Flight
+Ac type: F-16CM-50 
+Contry: U.S. 
+
+FLIGHT EVENTS
+Event Cold joined as Sparky31 at 19:07:08 
+Event DPRK BTR-60 destroyed by Cold at 19:13:17 
+Event DPRK BTR-60 destroyed by Cold at 19:13:17 
+Event Cold exited from Sparky31 at 19:13:26 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: 2Lt. Alex Brueckner 
+Callsign: Cold 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 2 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-9X 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: AGM-154A JSOW 
+Starting Load 4 
+Fired 2 
+Missed 1 
+Hit 1 
+Event AGM-154A JSOW released at 19:12:26@72hit BTR-60 - destroyed 
+Event @72hit ZIL-135 - damaged 
+
+LOADOUT 4: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 5: AN/ALQ-184 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 10/31/2015 17:33:38.
+Game is Tactical Engagement type Local
+Mission name: TR433_05_AAR
+
+Mission Type: TRAINING 
+Flight Unique Id: Goblin2
+2 Ship Flight
+Ac type: F-16B-15 
+Contry: U.S. 
+
+FLIGHT EVENTS
+Event Cold joined as Goblin21 at 14:00:01 
+Event U.S. KC-10 downed by Cold at 14:05:20 
+Event Cold ejected at 14:05:25 
+Event Goblin22 destroyed by debris at 14:05:36 
+Event Cold exited from Goblin21 at 14:05:38 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: 2Lt. Alex Brueckner 
+Callsign: Cold 
+Pilot status  - MIA 
+Aircraft status  - DESTROYED 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 1 
+Missed 0 
+Hit 1 
+Event 20mm M61 fired at 14:05:20@72hit KC-10 - destroyed 
+
+LOADOUT 1: AIM-9M 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: AN/ASQ-T50(v)1 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 10/31/2015 18:00:48.
+Game is Tactical Engagement type Local
+Mission name: TR433_15_IAM
+
+Mission Type: AI 
+Flight Unique Id: Sparky3
+2 Ship Flight
+Ac type: F-16CM-50 
+Contry: U.S. 
+
+FLIGHT EVENTS
+Event Cold joined as Sparky32 at 19:07:08 
+Event Cold exited from Sparky32 at 19:12:30 
+
+-------------
+PILOT SLOT 2:
+
+Human Player: 2Lt. Alex Brueckner 
+Callsign: Cold 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-9X 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: GBU-31(v)1/B 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 5: AN/ALQ-184 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 10/31/2015 18:10:48.
+Game is Tactical Engagement type Local
+Mission name: gbu train jdam pave
+
+Mission Type: TRAINING 
+Flight Unique Id: Cowboy1
+1 Ship Flight
+Ac type: F-16CM-40 
+Contry: U.S. 
+
+FLIGHT EVENTS
+Event Cold joined as Cowboy11 at 08:50:06 
+Event Cold exited from Cowboy11 at 09:04:13 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: 2Lt. Alex Brueckner 
+Callsign: Cold 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AN/ASQ-T50(v)1 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-120B 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: GBU-38/B 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: GBU-12B/B 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 5: 300 Gal Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 6: AIM-9X 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 10/31/2015 18:33:22.
+Game is DogFight type Local
+Mission name: gbu train jdam pave
+
+Mission Type: SWEEP 
+Flight Unique Id: Falcon1
+0 Ship Flight
+Ac type: F-16CM-52 
+Contry: japanese 
+
+FLIGHT EVENTS
+Event Cold entered arena 
+Event F-15C Shark11 launched 20mm M61 at Cold 13:02:19 
+Event F-15C Shark11 launched 20mm M61 at Cold 13:02:19 
+Event Cold ejected 
+Event Cold left arena 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: 2Lt. Alex Brueckner 
+Callsign: Cold 
+Pilot status  - OK 
+Aircraft status  - DESTROYED 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 2 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120B 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-9X 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: AIM-9P 
+Starting Load 2 
+Fired 2 
+Missed 2 
+Hit 0 
+Event Cold released AIM-9P: miss 
+Event Cold released AIM-9P: miss 
+
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 10/31/2015 18:35:56.
+Game is DogFight type Local
+Mission name: gbu train jdam pave
+
+Mission Type: SWEEP 
+Flight Unique Id: Falcon1
+0 Ship Flight
+Ac type: F-16CM-52 
+Contry: japanese 
+
+FLIGHT EVENTS
+Event Cold entered arena 
+Event F-15C Shark11 launched AIM-9P at Cold 05:01:07 
+Event Shark11 downed by Cold 
+Event Cold left arena 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: 2Lt. Alex Brueckner 
+Callsign: Cold 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 1 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 1 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 490 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-9P 
+Starting Load 0 
+Fired 2 
+Missed 1 
+Hit 1 
+Event Cold released AIM-9P: hit F-16CM-50 - damaged 
+Event Cold released AIM-9P: miss 
+
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 10/31/2015 18:40:48.
+Game is DogFight type Local
+Mission name: gbu train jdam pave
+
+Mission Type: SWEEP 
+Flight Unique Id: Falcon1
+0 Ship Flight
+Ac type: F-16CM-50 
+Contry: japanese 
+
+FLIGHT EVENTS
+Event Cold entered arena 
+Event F-16CM-50 Shark11 launched AIM-120B at Cold 05:01:53 
+Event Shark11 downed by Cold 
+Event F-16CM-50 Shark11 launched AIM-120B at Cold 05:03:30 
+Event Cold left arena 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: 2Lt. Alex Brueckner 
+Callsign: Cold 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 1 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 2 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-9P 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 10/31/2015 18:44:34.
+Game is DogFight type Local
+Mission name: gbu train jdam pave
+
+Mission Type: SWEEP 
+Flight Unique Id: Falcon1
+0 Ship Flight
+Ac type: F-16CM-50 
+Contry: japanese 
+
+FLIGHT EVENTS
+Event Cold entered arena 
+Event F-16CM-50 Shark11 launched AA-2C at Cold 05:01:37 
+Event F-16CM-50 Shark11 launched AA-2C at Cold 05:02:07 
+Event Shark12 downed by Cold 
+Event Shark11 downed by Cold 
+Event Cold left arena 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: 2Lt. Alex Brueckner 
+Callsign: Cold 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 2 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 2 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120B 
+Starting Load 0 
+Fired 1 
+Missed 0 
+Hit 1 
+Event Cold released AIM-120B: hit MiG-21MF - destroyed 
+
+LOADOUT 2: AIM-9X 
+Starting Load 2 
+Fired 2 
+Missed 2 
+Hit 0 
+Event Cold released AIM-9X: miss 
+Event Cold released AIM-9X: miss 
+
+LOADOUT 3: AIM-9P 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: AN/ALQ-131(V) -1 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 10/31/2015 21:17:50.
+Game is Tactical Engagement type Local
+Mission name: TR433_03_Landing
+
+Mission Type: TRAINING 
+Flight Unique Id: Goblin2
+1 Ship Flight
+Ac type: F-16B-15 
+Contry: U.S. 
+
+FLIGHT EVENTS
+Event Cold joined as Goblin21 at 10:55:50 
+Event Cold landed at 11:01:46 
+Event Cold exited from Goblin21 at 11:04:47 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: 2Lt. Alex Brueckner 
+Callsign: Cold 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120B 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 10/31/2015 21:24:32.
+Game is Tactical Engagement type Local
+Mission name: TR433_22_CarrierLanding
+
+Mission Type: TRAINING 
+Flight Unique Id: Sting1
+1 Ship Flight
+Ac type: F/A-18D 
+Contry: U.S. 
+
+FLIGHT EVENTS
+Event Cold joined as Sting11 at 08:32:34 
+Event Cold landed at 08:37:18 
+Event Cold ejected at 08:37:29 
+Event Cold exited from Sting11 at 08:37:48 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: 2Lt. Alex Brueckner 
+Callsign: Cold 
+Pilot status  - OK 
+Aircraft status  - DESTROYED 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 570 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-9X 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-120B 
+Starting Load 3 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: AN/ASQ-228 ATFLIR 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: 330 Gal Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 10/31/2015 21:36:18.
+Game is Tactical Engagement type Local
+Mission name: TR433_21_CarrierTakeOff
+
+Mission Type: TRAINING 
+Flight Unique Id: Sting1
+1 Ship Flight
+Ac type: F/A-18D 
+Contry: U.S. 
+
+FLIGHT EVENTS
+Event Cold joined as Sting11 at 07:56:00 
+Event Cold exited from Sting11 at 07:56:19 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: 2Lt. Alex Brueckner 
+Callsign: Cold 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 570 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-9X 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AGM-84A 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: AN/ASQ-228 ATFLIR 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: 330 Gal Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 5: AIM-120B 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 10/31/2015 21:50:54.
+Game is Tactical Engagement type Local
+Mission name: TR433_21_CarrierTakeOff
+
+Mission Type: TRAINING 
+Flight Unique Id: Sting1
+1 Ship Flight
+Ac type: F/A-18D 
+Contry: U.S. 
+
+FLIGHT EVENTS
+Event Cold joined as Sting11 at 07:56:00 
+Event Cold exited from Sting11 at 08:08:38 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: 2Lt. Alex Brueckner 
+Callsign: Cold 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 570 
+Fired 8 
+Missed 7 
+Hit 1 
+Event 20mm M61 fired at 08:05:28@72miss 
+Event 20mm M61 fired at 08:05:59@72miss 
+Event 20mm M61 fired at 08:06:01@72miss 
+Event 20mm M61 fired at 08:06:04@72miss 
+Event 20mm M61 fired at 08:06:05@72miss 
+Event 20mm M61 fired at 08:06:08@72miss 
+Event 20mm M61 fired at 08:08:27@72hit FFG-7 Perry - damaged 
+Event 20mm M61 fired at 08:08:35@72miss 
+
+LOADOUT 1: AIM-9X 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AGM-84A 
+Starting Load 4 
+Fired 2 
+Missed 0 
+Hit 2 
+Event AGM-84A released at 08:07:20@72hit CG-52 B. Hill - damaged 
+Event AGM-84A released at 08:08:11@72hit FFG-7 Perry - damaged 
+
+LOADOUT 3: AN/ASQ-228 ATFLIR 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: 330 Gal Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 5: AIM-120B 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 10/31/2015 22:41:12.
+Game is Campaign type Local
+Mission name: TR433_21_CarrierTakeOff
+
+Mission Type: DEAD 
+Flight Unique Id: Fury1
+2 Ship Flight
+Ac type: F-16CM-50 
+Contry: U.S. 
+
+FLIGHT EVENTS
+Event Cold joined as Fury11 at 08:54:38 
+Event DPRK Radar destroyed by Fury12 at 09:04:43 
+Event DPRK Fan Song F destroyed by Cold at 09:04:54 
+Event Cold landed at 09:26:00 
+Event Cold exited from Fury11 at 09:26:32 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: 2Lt. Alex Brueckner 
+Callsign: Cold 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 1 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-9X 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-120C 
+Starting Load 2 
+Fired 1 
+Missed 1 
+Hit 0 
+Event AIM-120C released at 09:12:25@72miss 
+
+LOADOUT 3: AGM-88 
+Starting Load 2 
+Fired 2 
+Missed 1 
+Hit 1 
+Event AGM-88 released at 09:04:16@72hit Fan Song F - destroyed 
+Event AGM-88 released at 09:07:50@72miss 
+
+LOADOUT 4: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 5: AN/ALQ-184 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 11/1/2015 01:10:26.
+Game is Tactical Engagement type Local
+Mission name: gbu train jdam pave
+
+Mission Type: TRAINING 
+Flight Unique Id: Cowboy1
+1 Ship Flight
+Ac type: F-16CM-40 
+Contry: U.S. 
+
+FLIGHT EVENTS
+Event Cold joined as Cowboy11 at 08:59:40 
+Event Cold exited from Cowboy11 at 09:01:39 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: 2Lt. Alex Brueckner 
+Callsign: Cold 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AN/ASQ-T50(v)1 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-120B 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: GBU-39/B SDB 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: GBU-27/B 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 5: 300 Gal Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 6: AIM-9X 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 11/1/2015 01:25:08.
+Game is Tactical Engagement type Local
+Mission name: gbu train jdam pave
+
+Mission Type: TRAINING 
+Flight Unique Id: Cowboy1
+1 Ship Flight
+Ac type: F-16CM-40 
+Contry: U.S. 
+
+FLIGHT EVENTS
+Event Cold joined as Cowboy11 at 09:02:52 
+Event U.S. Radar destroyed by Cold at 09:11:09 
+Event Cold ejected at 09:16:33 
+Event Cold exited from Cowboy11 at 09:16:34 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: 2Lt. Alex Brueckner 
+Callsign: Cold 
+Pilot status  - RESCUED 
+Aircraft status  - DESTROYED 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 6 
+Missed 3 
+Hit 3 
+Event 20mm M61 fired at 09:10:55@72miss 
+Event 20mm M61 fired at 09:11:00@72hit Radar - damaged 
+Event 20mm M61 fired at 09:11:06@72hit Radar - damaged 
+Event 20mm M61 fired at 09:11:10@72miss 
+Event 20mm M61 fired at 09:11:13@72hit Helipad - damaged 
+Event 20mm M61 fired at 09:12:17@72miss 
+
+LOADOUT 1: AN/ASQ-T50(v)1 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-120B 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: GBU-39/B SDB 
+Starting Load 4 
+Fired 4 
+Missed 0 
+Hit 4 
+Event GBU-39/B SDB released at 09:08:06@72hit Target 7 - damaged 
+Event GBU-39/B SDB released at 09:08:09@72hit Target 7 - damaged 
+Event @72hit RNG - Target South - damaged 
+Event @72hit RNG - Target South - damaged 
+
+LOADOUT 4: GBU-27/B 
+Starting Load 2 
+Fired 2 
+Missed 2 
+Hit 0 
+Event GBU-27/B released at 09:08:49@72miss 
+Event GBU-27/B released at 09:09:58@72miss 
+
+LOADOUT 5: 300 Gal Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 6: AIM-9X 
+Starting Load 1 
+Fired 1 
+Missed 1 
+Hit 0 
+Event AIM-9X released at 09:12:55@72miss 
+
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 11/1/2015 01:31:40.
+Game is DogFight type Local
+Mission name: gbu train jdam pave
+
+Mission Type: SWEEP 
+Flight Unique Id: Falcon1
+0 Ship Flight
+Ac type: F-16CM-52 
+Contry: japanese 
+
+FLIGHT EVENTS
+Event Cold entered arena 
+Event Shark11 downed by Cold 
+Event Shark11 downed by Cold 
+Event Shark11 downed by Cold 
+Event Cold left arena 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: 2Lt. Alex Brueckner 
+Callsign: Cold 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 3 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120B 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-9X 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: AIM-9P 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 11/1/2015 01:42:08.
+Game is Tactical Engagement type Local
+Mission name: sa3
+
+Mission Type: DEAD 
+Flight Unique Id: Cowboy1
+1 Ship Flight
+Ac type: F-16CM-52 
+Contry: U.S. 
+
+FLIGHT EVENTS
+Event Cold joined as Cowboy11 at 08:58:43 
+Event SA3 launched at Cold 08:59:55 
+Event SA3 launched at Cold 09:00:04 
+Event SA3 launched at Cold 09:00:15 
+Event SA3 launched at Cold 09:00:22 
+Event 14.5mm KPV launched at Cold 09:00:40 
+Event 14.5mm KPV launched at Cold 09:00:42 
+Event 14.5mm KPV launched at Cold 09:00:42 
+Event 14.5mm KPV launched at Cold 09:00:42 
+Event 14.5mm KPV launched at Cold 09:00:42 
+Event 14.5mm KPV launched at Cold 09:00:42 
+Event 14.5mm KPV launched at Cold 09:00:43 
+Event 14.5mm KPV launched at Cold 09:00:43 
+Event 14.5mm KPV launched at Cold 09:00:43 
+Event 14.5mm KPV launched at Cold 09:00:43 
+Event 14.5mm KPV launched at Cold 09:00:44 
+Event 14.5mm KPV launched at Cold 09:00:44 
+Event 14.5mm KPV launched at Cold 09:00:44 
+Event 14.5mm KPV launched at Cold 09:00:44 
+Event 14.5mm KPV launched at Cold 09:00:44 
+Event 14.5mm KPV launched at Cold 09:00:44 
+Event 14.5mm KPV launched at Cold 09:00:44 
+Event 14.5mm KPV launched at Cold 09:00:44 
+Event 14.5mm KPV launched at Cold 09:00:45 
+Event 14.5mm KPV launched at Cold 09:00:45 
+Event 14.5mm KPV launched at Cold 09:00:45 
+Event 14.5mm KPV launched at Cold 09:00:45 
+Event 14.5mm KPV launched at Cold 09:00:45 
+Event 14.5mm KPV launched at Cold 09:00:45 
+Event 14.5mm KPV launched at Cold 09:00:45 
+Event 14.5mm KPV launched at Cold 09:00:45 
+Event 14.5mm KPV launched at Cold 09:00:46 
+Event 14.5mm KPV launched at Cold 09:00:46 
+Event 14.5mm KPV launched at Cold 09:00:46 
+Event 14.5mm KPV launched at Cold 09:00:46 
+Event 14.5mm KPV launched at Cold 09:00:46 
+Event 14.5mm KPV launched at Cold 09:00:46 
+Event 14.5mm KPV launched at Cold 09:00:46 
+Event 14.5mm KPV launched at Cold 09:00:46 
+Event 14.5mm KPV launched at Cold 09:00:47 
+Event 14.5mm KPV launched at Cold 09:00:47 
+Event 14.5mm KPV launched at Cold 09:00:47 
+Event 14.5mm KPV launched at Cold 09:00:47 
+Event 14.5mm KPV launched at Cold 09:00:47 
+Event 14.5mm KPV launched at Cold 09:00:47 
+Event 14.5mm KPV launched at Cold 09:00:47 
+Event 14.5mm KPV launched at Cold 09:00:47 
+Event 14.5mm KPV launched at Cold 09:00:48 
+Event 14.5mm KPV launched at Cold 09:00:48 
+Event 14.5mm KPV launched at Cold 09:00:48 
+Event 14.5mm KPV launched at Cold 09:00:48 
+Event 14.5mm KPV launched at Cold 09:00:48 
+Event 14.5mm KPV launched at Cold 09:00:48 
+Event 14.5mm KPV launched at Cold 09:00:48 
+Event 14.5mm KPV launched at Cold 09:00:48 
+Event 14.5mm KPV launched at Cold 09:00:49 
+Event 14.5mm KPV launched at Cold 09:00:49 
+Event 14.5mm KPV launched at Cold 09:00:49 
+Event 14.5mm KPV launched at Cold 09:00:49 
+Event 14.5mm KPV launched at Cold 09:00:50 
+Event 14.5mm KPV launched at Cold 09:00:50 
+Event 14.5mm KPV launched at Cold 09:00:50 
+Event 14.5mm KPV launched at Cold 09:00:50 
+Event 14.5mm KPV launched at Cold 09:00:50 
+Event 14.5mm KPV launched at Cold 09:00:50 
+Event 14.5mm KPV launched at Cold 09:00:50 
+Event 14.5mm KPV launched at Cold 09:00:50 
+Event 14.5mm KPV launched at Cold 09:00:51 
+Event 14.5mm KPV launched at Cold 09:00:51 
+Event 14.5mm KPV launched at Cold 09:00:51 
+Event 14.5mm KPV launched at Cold 09:00:51 
+Event 14.5mm KPV launched at Cold 09:00:51 
+Event 14.5mm KPV launched at Cold 09:00:51 
+Event 14.5mm KPV launched at Cold 09:00:51 
+Event 14.5mm KPV launched at Cold 09:00:51 
+Event 14.5mm KPV launched at Cold 09:00:51 
+Event 14.5mm KPV launched at Cold 09:00:51 
+Event 14.5mm KPV launched at Cold 09:00:51 
+Event 14.5mm KPV launched at Cold 09:00:51 
+Event 14.5mm KPV launched at Cold 09:00:52 
+Event 14.5mm KPV launched at Cold 09:00:52 
+Event 14.5mm KPV launched at Cold 09:00:52 
+Event 14.5mm KPV launched at Cold 09:00:52 
+Event 14.5mm KPV launched at Cold 09:00:52 
+Event 14.5mm KPV launched at Cold 09:00:52 
+Event 14.5mm KPV launched at Cold 09:00:52 
+Event 14.5mm KPV launched at Cold 09:00:52 
+Event 14.5mm KPV launched at Cold 09:00:52 
+Event 14.5mm KPV launched at Cold 09:00:52 
+Event 14.5mm KPV launched at Cold 09:00:52 
+Event 14.5mm KPV launched at Cold 09:00:52 
+Event 14.5mm KPV launched at Cold 09:00:53 
+Event 14.5mm KPV launched at Cold 09:00:53 
+Event 14.5mm KPV launched at Cold 09:00:53 
+Event 14.5mm KPV launched at Cold 09:00:53 
+Event 14.5mm KPV launched at Cold 09:00:53 
+Event 14.5mm KPV launched at Cold 09:00:53 
+Event 14.5mm KPV launched at Cold 09:00:53 
+Event 14.5mm KPV launched at Cold 09:00:53 
+Event 14.5mm KPV launched at Cold 09:00:53 
+Event 14.5mm KPV launched at Cold 09:00:53 
+Event 14.5mm KPV launched at Cold 09:00:53 
+Event 14.5mm KPV launched at Cold 09:00:53 
+Event 14.5mm KPV launched at Cold 09:00:54 
+Event 14.5mm KPV launched at Cold 09:00:54 
+Event 14.5mm KPV launched at Cold 09:00:54 
+Event 14.5mm KPV launched at Cold 09:00:54 
+Event 14.5mm KPV launched at Cold 09:00:54 
+Event 14.5mm KPV launched at Cold 09:00:54 
+Event 14.5mm KPV launched at Cold 09:00:54 
+Event 14.5mm KPV launched at Cold 09:00:54 
+Event 14.5mm KPV launched at Cold 09:00:54 
+Event 14.5mm KPV launched at Cold 09:00:54 
+Event 14.5mm KPV launched at Cold 09:00:54 
+Event 14.5mm KPV launched at Cold 09:00:54 
+Event 14.5mm KPV launched at Cold 09:00:55 
+Event 14.5mm KPV launched at Cold 09:00:55 
+Event 14.5mm KPV launched at Cold 09:00:55 
+Event 14.5mm KPV launched at Cold 09:00:55 
+Event 14.5mm KPV launched at Cold 09:00:55 
+Event 14.5mm KPV launched at Cold 09:00:55 
+Event SA3 launched at Cold 09:00:59 
+Event SA3 launched at Cold 09:01:09 
+Event SA3 launched at Cold 09:01:34 
+Event SA3 launched at Cold 09:01:43 
+Event SA3 launched at Cold 09:01:51 
+Event SA3 launched at Cold 09:01:59 
+Event SA3 launched at Cold 09:02:06 
+Event SA3 launched at Cold 09:02:15 
+Event 14.5mm KPV launched at Cold 09:02:37 
+Event 14.5mm KPV launched at Cold 09:02:39 
+Event 14.5mm KPV launched at Cold 09:02:39 
+Event 14.5mm KPV launched at Cold 09:02:39 
+Event 14.5mm KPV launched at Cold 09:02:39 
+Event 14.5mm KPV launched at Cold 09:02:40 
+Event 14.5mm KPV launched at Cold 09:02:40 
+Event 14.5mm KPV launched at Cold 09:02:40 
+Event 14.5mm KPV launched at Cold 09:02:40 
+Event 14.5mm KPV launched at Cold 09:02:41 
+Event 14.5mm KPV launched at Cold 09:02:41 
+Event 14.5mm KPV launched at Cold 09:02:41 
+Event 14.5mm KPV launched at Cold 09:02:41 
+Event 14.5mm KPV launched at Cold 09:02:41 
+Event SA3 launched at Cold 09:02:47 
+Event SA3 launched at Cold 09:02:55 
+Event SA3 launched at Cold 09:03:02 
+Event SA3 launched at Cold 09:03:12 
+Event SA3 launched at Cold 09:03:21 
+Event 14.5mm KPV launched at Cold 09:03:33 
+Event 14.5mm KPV launched at Cold 09:03:33 
+Event 14.5mm KPV launched at Cold 09:03:35 
+Event 14.5mm KPV launched at Cold 09:03:35 
+Event 14.5mm KPV launched at Cold 09:03:35 
+Event 14.5mm KPV launched at Cold 09:03:35 
+Event 14.5mm KPV launched at Cold 09:03:35 
+Event 14.5mm KPV launched at Cold 09:03:35 
+Event 14.5mm KPV launched at Cold 09:03:35 
+Event 14.5mm KPV launched at Cold 09:03:35 
+Event 14.5mm KPV launched at Cold 09:03:36 
+Event 14.5mm KPV launched at Cold 09:03:36 
+Event 14.5mm KPV launched at Cold 09:03:36 
+Event 14.5mm KPV launched at Cold 09:03:36 
+Event 14.5mm KPV launched at Cold 09:03:36 
+Event 14.5mm KPV launched at Cold 09:03:36 
+Event 14.5mm KPV launched at Cold 09:03:36 
+Event 14.5mm KPV launched at Cold 09:03:36 
+Event 14.5mm KPV launched at Cold 09:03:37 
+Event 14.5mm KPV launched at Cold 09:03:37 
+Event 14.5mm KPV launched at Cold 09:03:37 
+Event 14.5mm KPV launched at Cold 09:03:37 
+Event 14.5mm KPV launched at Cold 09:03:37 
+Event 14.5mm KPV launched at Cold 09:03:37 
+Event 14.5mm KPV launched at Cold 09:03:37 
+Event 14.5mm KPV launched at Cold 09:03:37 
+Event 14.5mm KPV launched at Cold 09:03:38 
+Event 14.5mm KPV launched at Cold 09:03:38 
+Event 14.5mm KPV launched at Cold 09:03:38 
+Event 14.5mm KPV launched at Cold 09:03:38 
+Event 14.5mm KPV launched at Cold 09:03:38 
+Event 14.5mm KPV launched at Cold 09:03:38 
+Event 14.5mm KPV launched at Cold 09:03:38 
+Event 14.5mm KPV launched at Cold 09:03:38 
+Event 14.5mm KPV launched at Cold 09:03:38 
+Event 14.5mm KPV launched at Cold 09:03:39 
+Event 14.5mm KPV launched at Cold 09:03:39 
+Event 14.5mm KPV launched at Cold 09:03:39 
+Event 14.5mm KPV launched at Cold 09:03:39 
+Event 14.5mm KPV launched at Cold 09:03:39 
+Event 14.5mm KPV launched at Cold 09:03:39 
+Event 14.5mm KPV launched at Cold 09:03:39 
+Event 14.5mm KPV launched at Cold 09:03:40 
+Event 14.5mm KPV launched at Cold 09:03:40 
+Event 14.5mm KPV launched at Cold 09:03:40 
+Event 14.5mm KPV launched at Cold 09:03:40 
+Event 14.5mm KPV launched at Cold 09:03:40 
+Event 14.5mm KPV launched at Cold 09:03:40 
+Event 14.5mm KPV launched at Cold 09:03:40 
+Event 14.5mm KPV launched at Cold 09:03:40 
+Event 14.5mm KPV launched at Cold 09:03:40 
+Event 14.5mm KPV launched at Cold 09:03:40 
+Event 14.5mm KPV launched at Cold 09:03:40 
+Event 14.5mm KPV launched at Cold 09:03:40 
+Event 14.5mm KPV launched at Cold 09:03:40 
+Event 14.5mm KPV launched at Cold 09:03:41 
+Event 14.5mm KPV launched at Cold 09:03:41 
+Event 14.5mm KPV launched at Cold 09:03:41 
+Event 14.5mm KPV launched at Cold 09:03:41 
+Event 14.5mm KPV launched at Cold 09:03:41 
+Event 14.5mm KPV launched at Cold 09:03:41 
+Event 14.5mm KPV launched at Cold 09:03:41 
+Event 14.5mm KPV launched at Cold 09:03:41 
+Event 14.5mm KPV launched at Cold 09:03:41 
+Event 14.5mm KPV launched at Cold 09:03:41 
+Event 14.5mm KPV launched at Cold 09:03:41 
+Event 14.5mm KPV launched at Cold 09:03:42 
+Event 14.5mm KPV launched at Cold 09:03:42 
+Event 14.5mm KPV launched at Cold 09:03:42 
+Event 14.5mm KPV launched at Cold 09:03:42 
+Event 14.5mm KPV launched at Cold 09:03:42 
+Event 14.5mm KPV launched at Cold 09:03:42 
+Event 14.5mm KPV launched at Cold 09:03:42 
+Event 14.5mm KPV launched at Cold 09:03:42 
+Event 14.5mm KPV launched at Cold 09:03:42 
+Event 14.5mm KPV launched at Cold 09:03:42 
+Event 14.5mm KPV launched at Cold 09:03:42 
+Event 14.5mm KPV launched at Cold 09:03:43 
+Event 14.5mm KPV launched at Cold 09:03:43 
+Event 14.5mm KPV launched at Cold 09:03:43 
+Event 14.5mm KPV launched at Cold 09:03:43 
+Event 14.5mm KPV launched at Cold 09:03:43 
+Event 14.5mm KPV launched at Cold 09:03:43 
+Event 14.5mm KPV launched at Cold 09:03:43 
+Event 14.5mm KPV launched at Cold 09:03:43 
+Event 14.5mm KPV launched at Cold 09:03:43 
+Event 14.5mm KPV launched at Cold 09:03:44 
+Event 14.5mm KPV launched at Cold 09:03:44 
+Event 14.5mm KPV launched at Cold 09:03:44 
+Event 14.5mm KPV launched at Cold 09:03:44 
+Event 14.5mm KPV launched at Cold 09:03:44 
+Event 14.5mm KPV launched at Cold 09:03:44 
+Event 14.5mm KPV launched at Cold 09:03:45 
+Event 14.5mm KPV launched at Cold 09:03:45 
+Event 14.5mm KPV launched at Cold 09:03:45 
+Event 14.5mm KPV launched at Cold 09:03:45 
+Event 14.5mm KPV launched at Cold 09:03:45 
+Event 14.5mm KPV launched at Cold 09:03:45 
+Event 14.5mm KPV launched at Cold 09:03:45 
+Event 14.5mm KPV launched at Cold 09:03:45 
+Event 14.5mm KPV launched at Cold 09:03:45 
+Event 14.5mm KPV launched at Cold 09:03:45 
+Event 14.5mm KPV launched at Cold 09:03:46 
+Event 14.5mm KPV launched at Cold 09:03:46 
+Event 14.5mm KPV launched at Cold 09:03:46 
+Event 14.5mm KPV launched at Cold 09:03:46 
+Event 14.5mm KPV launched at Cold 09:03:46 
+Event 14.5mm KPV launched at Cold 09:03:46 
+Event 14.5mm KPV launched at Cold 09:03:46 
+Event 14.5mm KPV launched at Cold 09:03:46 
+Event 14.5mm KPV launched at Cold 09:03:46 
+Event 14.5mm KPV launched at Cold 09:03:46 
+Event 14.5mm KPV launched at Cold 09:03:46 
+Event 14.5mm KPV launched at Cold 09:03:46 
+Event 14.5mm KPV launched at Cold 09:03:47 
+Event 14.5mm KPV launched at Cold 09:03:47 
+Event 14.5mm KPV launched at Cold 09:03:47 
+Event 14.5mm KPV launched at Cold 09:03:47 
+Event 14.5mm KPV launched at Cold 09:03:47 
+Event 14.5mm KPV launched at Cold 09:03:47 
+Event 14.5mm KPV launched at Cold 09:03:47 
+Event 14.5mm KPV launched at Cold 09:03:47 
+Event 14.5mm KPV launched at Cold 09:03:47 
+Event 14.5mm KPV launched at Cold 09:03:47 
+Event 14.5mm KPV launched at Cold 09:03:47 
+Event 14.5mm KPV launched at Cold 09:03:47 
+Event 14.5mm KPV launched at Cold 09:03:48 
+Event 14.5mm KPV launched at Cold 09:03:48 
+Event 14.5mm KPV launched at Cold 09:03:48 
+Event 14.5mm KPV launched at Cold 09:03:48 
+Event 14.5mm KPV launched at Cold 09:03:48 
+Event 14.5mm KPV launched at Cold 09:03:48 
+Event 14.5mm KPV launched at Cold 09:03:48 
+Event 14.5mm KPV launched at Cold 09:03:48 
+Event 14.5mm KPV launched at Cold 09:03:48 
+Event 14.5mm KPV launched at Cold 09:03:48 
+Event SA3 launched at Cold 09:03:58 
+Event SA3 launched at Cold 09:04:07 
+Event SA3 launched at Cold 09:04:23 
+Event SA3 launched at Cold 09:04:48 
+Event SA3 launched at Cold 09:04:57 
+Event SA3 launched at Cold 09:05:07 
+Event SA3 launched at Cold 09:05:15 
+Event SA3 launched at Cold 09:05:25 
+Event SA3 launched at Cold 09:05:33 
+Event Cold exited from Cowboy11 at 09:05:59 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: 2Lt. Alex Brueckner 
+Callsign: Cold 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 36 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-9M 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-120C 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: AN/ALQ-184 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 11/1/2015 15:23:08.
+Game is Tactical Engagement type Local
+Mission name: TR433_15_IAM
+
+Mission Type: AI 
+Flight Unique Id: Sparky3
+2 Ship Flight
+Ac type: F-16CM-50 
+Contry: U.S. 
+
+FLIGHT EVENTS
+Event Cold joined as Sparky31 at 19:07:08 
+Event DPRK HN-5A Squad destroyed by Cold at 19:14:50 
+Event DPRK T-55 destroyed by Cold at 19:14:54 
+Event DPRK SA-7 destroyed by Cold at 19:14:54 
+Event DPRK SA-7 destroyed by Cold at 19:14:54 
+Event DPRK BTR-60 destroyed by Cold at 19:14:54 
+Event DPRK BTR-60 destroyed by Cold at 19:14:54 
+Event Cold exited from Sparky31 at 19:15:20 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: 2Lt. Alex Brueckner 
+Callsign: Cold 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 6 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-9X 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: AGM-154A JSOW 
+Starting Load 4 
+Fired 4 
+Missed 2 
+Hit 2 
+Event AGM-154A JSOW released at 19:12:35@72hit BMP-CMD - damaged 
+Event @72hit Underground Fact - damaged 
+Event @72hit Bunker - damaged 
+Event @72hit Bunker - damaged 
+
+LOADOUT 4: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 5: AN/ALQ-184 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 11/1/2015 15:43:12.
+Game is Tactical Engagement type Local
+Mission name: TR433_15_IAM
+
+Mission Type: AI 
+Flight Unique Id: Sparky3
+2 Ship Flight
+Ac type: F-16CM-50 
+Contry: U.S. 
+
+FLIGHT EVENTS
+Event Cold joined as Sparky32 at 19:07:08 
+Event DPRK Bridge Span destroyed by Cold at 19:15:30 
+Event DPRK ZSU23-4 destroyed by Sparky31 at 19:15:36 
+Event DPRK SA-13 destroyed by Sparky31 at 19:15:36 
+Event DPRK SA-13 destroyed by Sparky31 at 19:15:36 
+Event DPRK ZSU23-4 destroyed by Sparky31 at 19:15:36 
+Event DPRK SA-13 destroyed by Sparky31 at 19:15:36 
+Event DPRK ZSU23-4 destroyed by Sparky31 at 19:15:36 
+Event DPRK ZSU57-2 destroyed by Sparky31 at 19:15:37 
+Event DPRK BMP-1 destroyed by Sparky31 at 19:15:37 
+Event DPRK ZSU57-2 destroyed by Sparky31 at 19:15:37 
+Event DPRK HN-5A Squad destroyed by Sparky31 at 19:15:37 
+Event DPRK BMP-1 destroyed by Sparky31 at 19:15:37 
+Event DPRK HN-5A Squad destroyed by Sparky31 at 19:15:37 
+Event DPRK BMP-1 destroyed by Sparky31 at 19:15:37 
+Event DPRK ZSU57-2 destroyed by Sparky31 at 19:15:37 
+Event DPRK Bridge Span destroyed by Cold at 19:15:39 
+Event Cold exited from Sparky32 at 19:16:32 
+
+-------------
+PILOT SLOT 2:
+
+Human Player: 2Lt. Alex Brueckner 
+Callsign: Cold 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 2 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-9X 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: GBU-31(v)1/B 
+Starting Load 2 
+Fired 2 
+Missed 0 
+Hit 2 
+Event GBU-31(v)1/B released at 19:14:25@72hit Bridge Span - destroyed 
+Event @72hit Bridge Ramp - damaged 
+
+LOADOUT 4: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 5: AN/ALQ-184 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 11/1/2015 16:12:44.
+Game is Campaign type Local
+Mission name: -BMS5-004 MultiMission
+
+Mission Type: SWEEP 
+Flight Unique Id: Cobra1
+4 Ship Flight
+Ac type: F-16CM-40 
+Contry: U.S. 
+
+FLIGHT EVENTS
+Event Cold joined as Cobra11 at 05:56:00 
+Event AA-7R launched at Cold 06:10:15 
+Event DPRK MiG-23ML downed by Cold at 06:11:02 
+Event DPRK MiG-23ML downed by Cobra12 at 06:11:54 
+Event DPRK MiG-23ML downed by Cobra13 at 06:13:54 
+Event DPRK MiG-19SF downed by Cobra13 at 06:15:13 
+Event DPRK MiG-19SF downed by Cobra14 at 06:15:44 
+Event AA-7 launched at Cold 06:16:21 
+Event DPRK MiG-23ML downed by Cold at 06:16:42 
+Event AA-10A launched at Cold 06:17:26 
+Event DPRK MiG-23ML downed by Cobra14 at 06:17:29 
+Event DPRK MiG-29A downed by Cobra14 at 06:17:44 
+Event Cold exited from Cobra11 at 06:17:54 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: 2Lt. Alex Brueckner 
+Callsign: Cold 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 2 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 3 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-9M 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-120C 
+Starting Load 4 
+Fired 3 
+Missed 1 
+Hit 2 
+Event AIM-120C released at 06:09:43@72miss 
+Event AIM-120C released at 06:10:17@72hit MiG-23ML - destroyed 
+Event AIM-120C released at 06:16:08@72hit MiG-23ML - destroyed 
+
+LOADOUT 3: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: AN/ALQ-184 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 11/1/2015 16:46:02.
+Game is Campaign type Local
+Mission name: -BMS5-004 MultiMission
+
+Mission Type: AI STRIKE 
+Flight Unique Id: Hornet9
+2 Ship Flight
+Ac type: F/A-18E 
+Contry: U.S. 
+
+FLIGHT EVENTS
+Event Cold joined as Hornet91 at 08:09:11 
+Event DPRK Bridge destroyed by Cold at 08:24:46 
+Event Cold exited from Hornet91 at 08:48:26 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: 2Lt. Alex Brueckner 
+Callsign: Cold 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 1 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 400 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-9X 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-120C 
+Starting Load 7 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: AGM-84H SLAM-ER 
+Starting Load 2 
+Fired 2 
+Missed 1 
+Hit 1 
+Event AGM-84H SLAM-ER released at 08:22:54@72hit Bridge - destroyed 
+Event AGM-84H SLAM-ER released at 08:26:30@72miss 
+
+LOADOUT 4: AN/AAS-38 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 5: AN/AWW-9 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 11/1/2015 17:09:06.
+Game is DogFight type Local
+
+Mission Type: SWEEP 
+Flight Unique Id: Tiger1
+0 Ship Flight
+Ac type: F-16CM-52 
+Contry: CIS 
+
+FLIGHT EVENTS
+Event Cold entered arena 
+Event Crimson11 downed by Cold 
+Event Crimson11 downed by Cold 
+Event Cold left arena 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: 2Lt. Alex Brueckner 
+Callsign: Cold 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 2 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120B 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-9X 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: AIM-9P 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 11/1/2015 17:15:52.
+Game is DogFight type Local
+
+Mission Type: SWEEP 
+Flight Unique Id: Tiger1
+0 Ship Flight
+Ac type: F/A-18E 
+Contry: CIS 
+
+FLIGHT EVENTS
+Event Cold entered arena 
+Event Crimson11 downed by Cold 
+Event Crimson11 downed by Cold 
+Event Crimson11 downed by Cold 
+Event Cold left arena 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: 2Lt. Alex Brueckner 
+Callsign: Cold 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 3 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 400 
+Fired 0 
+Missed 0 
+Hit 0 
+
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 11/1/2015 17:21:36.
+Game is DogFight type Local
+
+Mission Type: SWEEP 
+Flight Unique Id: Tiger1
+3 Ship Flight
+Ac type: F-16CM-52 
+Contry: CIS 
+
+FLIGHT EVENTS
+Event Cold entered arena 
+Event Crimson13 downed by Cold 
+Event Crimson12 downed by Cold 
+Event Crimson12 downed by Cold 
+Event Crimson14 downed by Tiger14 
+Event Crimson14 downed by Tiger14 
+Event Crimson11 downed by Tiger13 
+Event Crimson11 downed by Tiger13 
+Event Cold left arena 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: 2Lt. Alex Brueckner 
+Callsign: Cold 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 3 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 11/1/2015 18:11:08.
+Game is Tactical Engagement type Local
+Mission name: relax ride
+
+Mission Type: TRAINING 
+Flight Unique Id: Cowboy1
+1 Ship Flight
+Ac type: F-16CM-50 
+Contry: U.S. 
+
+FLIGHT EVENTS
+Event Cold joined as Cowboy11 at 08:56:10 
+Event U.S. Office destroyed by Cold at 09:30:54 
+Event Cold landed at 09:35:12 
+Event Cold exited from Cowboy11 at 09:36:19 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: 2Lt. Alex Brueckner 
+Callsign: Cold 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 2 
+Missed 0 
+Hit 2 
+Event 20mm M61 fired at 09:30:50@72hit Office - damaged 
+Event 20mm M61 fired at 09:31:22@72hit Office - damaged 
+
+LOADOUT 1: AN/ASQ-T50(v)1 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-120C 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: 600 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: AN/ALQ-184 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 5: AIM-9X 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 11/3/2015 23:50:56.
+Game is Tactical Engagement type Local
+Mission name: relax ride
+
+Mission Type: TRAINING 
+Flight Unique Id: Cowboy1
+1 Ship Flight
+Ac type: F-16CM-50 
+Contry: U.S. 
+
+FLIGHT EVENTS
+Event Cold joined as Cowboy11 at 08:56:10 
+Event Cold exited from Cowboy11 at 08:57:34 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: 2Lt. Alex Brueckner 
+Callsign: Cold 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AN/ASQ-T50(v)1 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-120C 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: Mk-82 SE 
+Starting Load 6 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: 600 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 5: AN/ALQ-131(V) -1 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 6: AIM-9X 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 11/4/2015 00:42:58.
+Game is Tactical Engagement type Local
+Mission name: relax ride
+
+Mission Type: TRAINING 
+Flight Unique Id: Cowboy1
+1 Ship Flight
+Ac type: F-16CM-50 
+Contry: U.S. 
+
+FLIGHT EVENTS
+Event Cold joined as Cowboy11 at 08:56:10 
+Event Cold landed at 09:46:36 
+Event Cold exited from Cowboy11 at 09:47:01 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: 2Lt. Alex Brueckner 
+Callsign: Cold 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 1 
+Missed 0 
+Hit 1 
+Event 20mm M61 fired at 09:18:40@72hit Office - damaged 
+
+LOADOUT 1: AN/ASQ-T50(v)1 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-120C 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: Mk-82 SE 
+Starting Load 6 
+Fired 4 
+Missed 2 
+Hit 2 
+Event Mk-82 SE released at 08:59:23@72miss 
+Event Mk-82 SE released at 08:59:23@72miss 
+Event Mk-82 SE released at 09:11:57@72hit Office - damaged 
+Event Mk-82 SE released at 09:13:11@72hit Office - damaged 
+
+LOADOUT 4: 600 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 5: AN/ALQ-184 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 6: AIM-9X 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 11/4/2015 00:50:24.
+Game is DogFight type Local
+Mission name: relax ride
+
+Mission Type: SWEEP 
+Flight Unique Id: Crimson1
+0 Ship Flight
+Ac type: F-16CM-52 
+Contry: U.S. 
+
+FLIGHT EVENTS
+Event Cold entered arena 
+Event Tiger11 downed by Cold 
+Event Cold left arena 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: 2Lt. Alex Brueckner 
+Callsign: Cold 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 1 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120B 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-9X 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: AIM-9P 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 11/4/2015 00:52:58.
+Game is DogFight type Local
+Mission name: relax ride
+
+Mission Type: SWEEP 
+Flight Unique Id: Crimson1
+0 Ship Flight
+Ac type: F-16CM-50 
+Contry: U.S. 
+
+FLIGHT EVENTS
+Event Cold entered arena 
+Event Tiger11 downed by Cold 
+Event Cold left arena 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: 2Lt. Alex Brueckner 
+Callsign: Cold 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 1 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 11/4/2015 00:57:46.
+Game is Tactical Engagement type Local
+Mission name: sa3
+
+Mission Type: DEAD 
+Flight Unique Id: Cowboy1
+1 Ship Flight
+Ac type: F-16CM-52 
+Contry: U.S. 
+
+FLIGHT EVENTS
+Event Cold joined as Cowboy11 at 08:59:42 
+Event SA3 launched at Cold 08:59:54 
+Event SA3 launched at Cold 09:00:03 
+Event SA3 launched at Cold 09:00:15 
+Event SA3 launched at Cold 09:00:32 
+Event SA3 launched at Cold 09:00:41 
+Event SA3 launched at Cold 09:00:50 
+Event SA3 launched at Cold 09:00:59 
+Event SA3 launched at Cold 09:01:08 
+Event SA3 launched at Cold 09:01:17 
+Event SA3 launched at Cold 09:01:26 
+Event SA3 launched at Cold 09:02:03 
+Event SA3 launched at Cold 09:02:12 
+Event SA3 launched at Cold 09:02:21 
+Event SA3 launched at Cold 09:02:30 
+Event SA3 launched at Cold 09:02:39 
+Event SA3 launched at Cold 09:02:48 
+Event SA3 launched at Cold 09:02:55 
+Event SA3 launched at Cold 09:03:19 
+Event Cold exited from Cowboy11 at 09:03:52 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: 2Lt. Alex Brueckner 
+Callsign: Cold 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 18 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-9M 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-120C 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: AN/ALQ-184 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 11/4/2015 01:03:24.
+Game is Tactical Engagement type Local
+Mission name: #suicidelowllat
+
+Mission Type: DCA 
+Flight Unique Id: Cowboy1
+1 Ship Flight
+Ac type: F-16CM-52 
+Contry: U.S. 
+
+FLIGHT EVENTS
+Event Cold joined as Cowboy11 at 08:58:05 
+Event SA2 launched at Cold 08:58:57 
+Event SA2 launched at Cold 08:59:09 
+Event SA2 launched at Cold 08:59:19 
+Event SA2 launched at Cold 08:59:29 
+Event SA2 launched at Cold 08:59:39 
+Event SA2 launched at Cold 08:59:50 
+Event SA3 launched at Cold 08:59:52 
+Event SA2 launched at Cold 09:00:00 
+Event SA2 launched at Cold 09:00:11 
+Event SA3 launched at Cold 09:00:11 
+Event SA3 launched at Cold 09:00:20 
+Event SA3 launched at Cold 09:00:28 
+Event SA3 launched at Cold 09:00:37 
+Event SA3 launched at Cold 09:00:46 
+Event SA3 launched at Cold 09:00:55 
+Event Cold exited from Cowboy11 at 09:02:18 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: 2Lt. Alex Brueckner 
+Callsign: Cold 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 15 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120B 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-120C 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: AIM-9X 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 5: AN/ALQ-184 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 11/7/2015 22:13:20.
+Game is DogFight type Local
+Mission name: relax ride
+
+Mission Type: SWEEP 
+Flight Unique Id: Crimson1
+0 Ship Flight
+Ac type: F-16CM-52 
+Contry: U.S. 
+
+FLIGHT EVENTS
+Event Cold entered arena 
+Event MiG-29A Tiger11 launched 30mm GSH-301 at Cold 10:07:32 
+Event MiG-29A Tiger11 launched 30mm GSH-301 at Cold 10:07:32 
+Event Tiger11 downed by Cold 
+Event MiG-29A Tiger11 launched 30mm GSH-301 at Cold 10:10:34 
+Event MiG-29A Tiger11 launched 30mm GSH-301 at Cold 10:10:34 
+Event Tiger11 downed by Cold 
+Event Tiger11 downed by Cold 
+Event Tiger11 downed by Cold 
+Event Cold left arena 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: 2Lt. Alex Brueckner 
+Callsign: Cold 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 4 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 4 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120B 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-9X 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: AIM-9P 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 11/27/2015 17:48:58.
+Game is Campaign type Local
+
+Mission Type: DEAD 
+Flight Unique Id: Sting8
+2 Ship Flight
+Ac type: F/A-18E 
+Contry: U.S. 
+
+FLIGHT EVENTS
+Event Cold joined as Sting81 at 08:22:02 
+Event AS-14T launched at Cold 08:44:52 
+Event Cold exited from Sting81 at 08:48:44 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: 2Lt. Alex Brueckner 
+Callsign: Cold 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 1 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 400 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-9X 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AGM-88 
+Starting Load 6 
+Fired 2 
+Missed 2 
+Hit 0 
+Event AGM-88 released at 08:44:53@72miss 
+Event AGM-88 released at 08:46:54@72miss 
+
+LOADOUT 3: AIM-120C 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: 330 Gal Tank 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 11/27/2015 18:12:28.
+Game is Campaign type Local
+
+Mission Type: BAI 
+Flight Unique Id: Shark1
+3 Ship Flight
+Ac type: F-16CM-50 
+Contry: U.S. 
+
+FLIGHT EVENTS
+Event Cold joined as Shark11 at 11:15:04 
+Event Cold exited from Shark11 at 11:29:17 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: 2Lt. Alex Brueckner 
+Callsign: Cold 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-9X 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: AGM-65D 
+Starting Load 6 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: GBU-12B/B 
+Starting Load 4 
+Fired 2 
+Missed 2 
+Hit 0 
+Event GBU-12B/B released at 11:28:52@72miss 
+Event GBU-12B/B released at 11:28:52@72miss 
+
+LOADOUT 5: AN/ALQ-184 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 11/27/2015 18:17:04.
+Game is Campaign type Local
+
+Mission Type: BAI 
+Flight Unique Id: Shark1
+3 Ship Flight
+Ac type: F-16CM-50 
+Contry: U.S. 
+
+FLIGHT EVENTS
+Event Cold joined as Shark11 at 11:25:50 
+Event Cold exited from Shark11 at 11:29:44 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: 2Lt. Alex Brueckner 
+Callsign: Cold 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-120C 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-9X 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: AGM-65D 
+Starting Load 6 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: GBU-12B/B 
+Starting Load 4 
+Fired 1 
+Missed 1 
+Hit 0 
+Event GBU-12B/B released at 11:29:38@72miss 
+
+LOADOUT 5: AN/ALQ-184 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 11/27/2015 22:08:32.
+Game is Tactical Engagement type Local
+Mission name: f18 mitl bombs fae
+
+Mission Type: TRAINING 
+Flight Unique Id: Hornet1
+1 Ship Flight
+Ac type: F/A-18E 
+Contry: U.S. 
+
+FLIGHT EVENTS
+Event Cold joined as Hornet11 at 09:01:00 
+Event SA5 launched at Cold 09:06:43 
+Event SA5 launched at Cold 09:07:01 
+Event SA5 launched at Cold 09:07:23 
+Event DPRK SA-5 destroyed by Cold at 09:13:39 
+Event SA5 launched at Cold 09:17:28 
+Event SA5 launched at Cold 09:19:11 
+Event Cold exited from Hornet11 at 09:23:15 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: 2Lt. Alex Brueckner 
+Callsign: Cold 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 1 
+AS Kills 0 
+AN Kills 0 
+Shoot At 5 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 400 
+Fired 1 
+Missed 0 
+Hit 1 
+Event 20mm M61 fired at 09:14:35@72hit KrAz T 255B - damaged 
+
+LOADOUT 1: AIM-9X 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-120C 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: AGM-84H SLAM-ER 
+Starting Load 2 
+Fired 1 
+Missed 1 
+Hit 0 
+Event AGM-84H SLAM-ER released at 09:22:25@72miss 
+
+LOADOUT 4: AGM-154C JSOW 
+Starting Load 4 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 5: AIM-7F 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 6: CBU-72 FAE 
+Starting Load 1 
+Fired 1 
+Missed 0 
+Hit 1 
+Event CBU-72 FAE released at 09:13:34@72hit SA-5 - destroyed 
+
+LOADOUT 7: AN/AWW-9 
+Starting Load 1 
+Fired 0 
+Missed 0 
+Hit 0 
+
+
+
+
+--------------------------------------------------------
+RECORD BEGIN TIMESTAMP 11/27/2015 22:19:40.
+Game is Campaign type Local
+Mission name: f18 mitl bombs fae
+
+Mission Type: OCA STRIKE 
+Flight Unique Id: Panther1
+4 Ship Flight
+Ac type: F-15E-229 
+Contry: ROK 
+
+FLIGHT EVENTS
+Event Cold joined as Panther11 at 05:23:00 
+Event Cold exited from Panther11 at 05:25:11 
+
+-------------
+PILOT SLOT 1:
+
+Human Player: 2Lt. Alex Brueckner 
+Callsign: Cold 
+Pilot status  - OK 
+Aircraft status  - OK 
+AA Kills 0 
+AG Kills 0 
+AS Kills 0 
+AN Kills 0 
+Shoot At 0 
+Other Player Kills 0 
+
+WEAPON DATA 
+
+LOADOUT 0: 20mm M61 
+Starting Load 510 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 1: AIM-9M 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 2: AIM-120C 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 3: Mk-84 AIR 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
+LOADOUT 4: 370 Gal Tank 
+Starting Load 2 
+Fired 0 
+Missed 0 
+Hit 0 
+
